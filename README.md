@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Sarp Kuzey
 
-<!--
-**xJordy/xJordy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Web Based Application Development Projects And Mobile Applications**
+- 🌱 I’m currently learning **JS, PHP, Java, C#**
+- 🎨 Portfolio focus: **Art and Music Web Design**
+- ⚡ Fun fact: **I prefer colorful designs and clean code.**
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** HTML5, CSS3, JavaScript, PHP, Java, C#
+- **Tools:** VS Code, Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Contact & Collaboration
+- 💬 Ask me about: **Front-end layout techniques (Flexbox, Grid, Filters)**
+- 📫 How to reach me: **kiziltansarpkuzey@gmail.com**
+
+---
+
+*This profile is a work in progress as I expand my coding skills.*
