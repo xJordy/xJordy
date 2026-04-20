@@ -11,8 +11,7 @@
 
 ### 🤝 Contact & Collaboration
 - 💬 Ask me about: **Front-end layout techniques (Flexbox, Grid, Filters)**
-- 📫 How to reach me: **kiziltansarpkuzey@gmail.com**
-
+- 📫 How to reach me: [mail](kiziltansarpkuzey@gmail.com)
 ---
 
 *This profile is a work in progress as I expand my coding skills.*
